@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Application URL
-This application is deployed @ https://subhaarun-n.github.io/ReactApp-EmployeeDetails/.
+
 
 ## Available Scripts
 
