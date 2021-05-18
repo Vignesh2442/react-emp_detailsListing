@@ -1,0 +1,26 @@
+{
+	"id": 6,
+	"name":"Tyler Holmes",
+	
+	"username": {
+		  "first": "Tyler",
+		  "last": "Holmes",
+		  "short": "TH",
+		  "title": "Mr"
+		},
+		"email": "tyler.holmes@kg.com",
+		"contact": "9876890123",
+		"contactext": "+001",
+		"joindate": "01-Jul-2018",
+		"joindateformat": "D-M-Y",
+	
+		  "large": "https://randomuser.me/api/portraits/men/30.jpg",
+		  "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+		  "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg",
+		
+	  "team": "Development",
+	  "jobtitle": "Software Developer",
+	  
+	  "loggedIn": true
+
+	}

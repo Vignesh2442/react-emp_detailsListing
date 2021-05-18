@@ -1,0 +1,25 @@
+{
+	"id": 5,
+	"name":"Justin Knight",
+	"username": {
+		  
+        "first": "Justin",
+        "last": "Knight",
+        "short": "JK",
+        "title": "Mr"
+      },
+      "email": "justin.knight@kg.com",
+      "contact": "000897689",
+      "contactext": "+001",
+      "joindate": "01-Jul-2018",
+      "joindateformat": "D-M-Y",
+      
+        "large": "https://randomuser.me/api/portraits/men/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg",
+    
+    "team": "Development",
+    "jobtitle": "Software Developer",
+    
+    "loggedIn": true
+}

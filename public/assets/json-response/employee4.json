@@ -1,0 +1,26 @@
+{
+	"id": 4,
+	"name":"Stella Brown",
+	"username": {
+        "first": "Stella",
+        "last": "Brown",
+        "short": "SB",
+        "title": "Ms"
+      },
+      "email": "stellaberry@kg.com",
+      "contact": "908765430",
+      "contactext": "+001",
+      "joindate": "31-Jan-2019",
+      "joindateformat": "D-M-Y",
+      
+        "large": "https://randomuser.me/api/portraits/women/29.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg",
+
+    "team": "Research",
+    
+    "jobtitle": "Research Associate-Intern",
+	 
+    "loggedIn": false
+    }
+  

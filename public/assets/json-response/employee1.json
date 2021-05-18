@@ -1,0 +1,23 @@
+{
+	"id": 1,
+	"name":"John Doe",
+	"username": {
+		  "first": "John",
+		  "last": "Doe",
+		  "short": "JD",
+		  "title": "Mr"
+	},
+		"email": "johndoe@kg.com",
+		"contact": "0123456789",
+		"contactext": "+001",
+		"joindate": "02-Jan-2018",
+		"joindateformat": "D-M-Y",
+		
+		  "large": "https://randomuser.me/api/portraits/men/75.jpg",
+		  "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+		  "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg",
+	  "team": "marketing",
+	  "jobtitle": "Designer",
+	   "loggedIn": false
+    }
+

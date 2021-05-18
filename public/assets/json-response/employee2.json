@@ -1,0 +1,23 @@
+{
+	"id": 2,
+	"name":"John Skeet",
+	"username": {
+		  "first": "John",
+		  "last": "Skeet",
+		  "short": "JS",
+		  "title": "Mr"
+		},
+		"email": "johnskeet@kg.com",
+		"contact": "0123456788",
+		"contactext": "+001",
+		"joindate": "22-Feb-2018",
+		"joindateformat": "D-M-Y",
+		
+		  "large": "https://randomuser.me/api/portraits/men/74.jpg",
+		  "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+		  "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg",
+		
+	  "team": "marketing",
+	  "jobtitle": "Sales head",
+	 	  "loggedIn": false
+}

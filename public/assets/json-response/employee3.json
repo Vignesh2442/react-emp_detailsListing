@@ -1,0 +1,25 @@
+{
+	"id": 3,
+	"name":"Ruby Perry",
+	"username": {
+		  "first": "Ruby",
+		  "last": "Perry",
+		  "short": "RB",
+		  "title": "Ms"
+		},
+		"email": "rubyperry@kg.com",
+		"contact": "0123458788",
+		"contactext": "+001",
+		"joindate": "01-Mar-2019",
+		"joindateformat": "D-M-Y",
+		
+		  "large": "https://randomuser.me/api/portraits/women/28.jpg",
+		  "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+		  "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg",
+		
+	  "team": "Research",
+	  "jobtitle": "Research Associate",
+	 
+	  "loggedIn": false
+	}
+
